@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "toymarket-c031c",
+    "staging": "toymarket-c031c"
+  },
+  "targets": {},
+  "etags": {}
+}

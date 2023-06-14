@@ -1,0 +1,82 @@
+[{
+    "picture": "https://example.com/science-kit1.jpg",
+    "name": "Chemistry Lab Starter Kit",
+    "price": 29.99,
+    "rating": 4.5,
+    "quantity": 10,
+    "description": "A beginner's chemistry lab kit with essential chemicals and equipment to perform basic experiments.",
+    "subcategory": "science-kit"
+  },
+  {
+    "picture": "https://example.com/science-kit2.jpg",
+    "name": "Robotics Engineering Kit",
+    "price": 49.99,
+    "rating": 4.2,
+    "quantity": 5,
+    "description": "Build and program your own robots with this comprehensive robotics engineering kit.",
+    "subcategory": "science-kit"
+  },
+  {
+    "picture": "https://example.com/science-kit3.jpg",
+    "name": "Astronomy Discovery Set",
+    "price": 39.99,
+    "rating": 4.8,
+    "quantity": 7,
+    "description": "Explore the wonders of the universe with this astronomy discovery set, including a telescope and stargazing guide.",
+    "subcategory": "science-kit"
+  },
+  {
+    "picture": "https://example.com/math-toy1.jpg",
+    "name": "Counting Blocks Set",
+    "price": 19.99,
+    "rating": 4.3,
+    "quantity": 8,
+    "description": "A set of colorful counting blocks to help children learn basic math concepts and develop counting skills.",
+    "subcategory": "math-learning-toys"
+  },
+  {
+    "picture": "https://example.com/math-toy2.jpg",
+    "name": "Math Puzzle Board",
+    "price": 29.99,
+    "rating": 4.6,
+    "quantity": 5,
+    "description": "An interactive math puzzle board with various mathematical operations to enhance problem-solving abilities.",
+    "subcategory": "math-learning-toys"
+  },
+  {
+    "picture": "https://example.com/math-toy3.jpg",
+    "name": "Shape Sorting Cube",
+    "price": 14.99,
+    "rating": 4.8,
+    "quantity": 12,
+    "description": "A shape sorting cube toy that introduces children to different shapes, spatial awareness, and critical thinking.",
+    "subcategory": "math-learning-toys"
+  },
+  {
+    "picture": "https://example.com/engineering-kit1.jpg",
+    "name": "Mechanical Engineering Set",
+    "price": 49.99,
+    "rating": 4.5,
+    "quantity": 10,
+    "description": "A comprehensive mechanical engineering kit that allows kids to build various mechanical structures and learn engineering principles.",
+    "subcategory": "engineering-kits"
+  },
+  {
+    "picture": "https://example.com/engineering-kit2.jpg",
+    "name": "Electronics Discovery Kit",
+    "price": 39.99,
+    "rating": 4.2,
+    "quantity": 5,
+    "description": "An electronics discovery kit that teaches the basics of circuitry and electronic components through hands-on experiments.",
+    "subcategory": "engineering-kits"
+  },
+  {
+    "picture": "https://example.com/engineering-kit3.jpg",
+    "name": "Civil Engineering Construction Set",
+    "price": 59.99,
+    "rating": 4.8,
+    "quantity": 7,
+    "description": "Build bridges, towers, and other structures with this civil engineering construction set that introduces fundamental engineering concepts.",
+    "subcategory": "engineering-kits"
+  }
+]
