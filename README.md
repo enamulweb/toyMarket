@@ -6,7 +6,6 @@ https://toymarket-c031c.web.app
 
 ## Features ##
 
-* Learn Something with playing toy
 * Add your toy
 * See All toys
 * See your toys
