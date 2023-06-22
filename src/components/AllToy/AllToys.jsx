@@ -14,7 +14,7 @@ const AllToys = () => {
     DynamicTitle('AllToys')
     useEffect(()=>{
       setloading(true)
-        fetch(`https://learn-with-toys-server.vercel.app/alltoys?limit=${limit}&search=${searchvalue}`)
+        fetch(`https://toymarket-server-production.up.railway.app/alltoys?limit=${limit}&search=${searchvalue}`)
         .then(res=> res.json())
         .then(data=> {
           setAlltoys(data)

@@ -20,7 +20,7 @@ const MyToys = () => {
     }
     useEffect(()=>{
         setloading(true)
-        fetch(`https://learn-with-toys-server.vercel.app/mytoys?email=${email}&sort=${selectedOption}`)
+        fetch(`https://toymarket-server-production.up.railway.app/mytoys?email=${email}&sort=${selectedOption}`)
         .then(res=> res.json())
         .then(data=> {
             setMytoys(data)
@@ -102,7 +102,7 @@ const MyToys = () => {
             confirmButtonText: 'Yes, Delete it!'
           }).then((result) => {
             if (result.isConfirmed) {
-                fetch(`https://learn-with-toys-server.vercel.app/delete/${id}`,{
+                fetch(`https://toymarket-server-production.up.railway.app/delete/${id}`,{
                     method:"DELETE",
                     headers: {
                         'Content-type': 'application/json'

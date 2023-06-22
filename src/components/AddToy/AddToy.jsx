@@ -32,7 +32,7 @@ const AddToy = () => {
                 confirmButtonText: 'Yes, Add it!'
               }).then((result) => {
                 if (result.isConfirmed) {
-                    fetch('https://learn-with-toys-server.vercel.app/addtoy',{
+                    fetch('https://toymarket-server-production.up.railway.app/addtoy',{
                         method:'POST',
                         headers:{
                             'Content-Type':'application/json',

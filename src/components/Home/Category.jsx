@@ -44,7 +44,7 @@ const Category = () => {
     
     useEffect(()=>{
         setloading(true)
-        fetch(`https://learn-with-toys-server.vercel.app/alltoy/${category}`)
+        fetch(`https://toymarket-server-production.up.railway.app/alltoy/${category}`)
         .then(res=> res.json())
         .then(data=> {
             setAlltoys(data)
