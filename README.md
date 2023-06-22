@@ -2,11 +2,10 @@
 b7a11-toy-marketplace-client-side-Samshuleeecuet created by GitHub Classroom
 
 ## Live Site Link ##
-https://learn-with-toys.web.app/
+https://toymarket-c031c.web.app
 
 ## Features ##
 
-* Learn Something with playing toy
 * Add your toy
 * See All toys
 * See your toys
